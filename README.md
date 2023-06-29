@@ -1,0 +1,1 @@
+# DG-M, strona która przedstawia przykładową witrynę dla jakiegoś przedsiębiorstwa, na przykład: banku. Strona jest w pełni responsywna oraz została ona oparta na Grid'zie. Rownież zawiera wszystkie sekcje, która powinna mieć oraz czytelną nawgigację.
